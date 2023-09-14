@@ -1,5 +1,5 @@
 # IBM-AI-internship-Mental-fitness-tracker
-The Mental Fitness Tracker Jupyter Notebook code is an open-source project hosted on GitHub that provides a practical implementation of a mental fitness tracking tool using Python and Jupyter Notebook. This project aims to help individuals monitor and improve their mental well-being through an interactive and customizable notebook-based solution.
+The Mental Fitness Tracker Jupyter Notebook  that provides a practical implementation of a mental fitness tracking tool using Python and Jupyter Notebook. This project aims to help individuals monitor and improve their mental well-being through an interactive and customizable notebook-based solution.
 The Mental Fitness Tracker Jupyter Notebook code offers a range of functionalities designed to empower users to track, analyze, and enhance their mental health. The code utilizes Python libraries such as pandas, matplotlib, and seaborn to handle data manipulation, visualization, and analysis.
 
 Key Features:
